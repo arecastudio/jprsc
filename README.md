@@ -4,3 +4,4 @@
 
 ## Reference(s)
 - https://dzone.com/articles/how-to-create-a-simple-and-efficient-php-cache
+- https://phppot.com/php/php-cache-for-dynamic-web-pages
