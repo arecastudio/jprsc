@@ -89,11 +89,26 @@
             <a class="nav-link active" aria-current="page" href="#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#">CCTV</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled">Disabled</a>
+            <a class="nav-link" href="#">Berita</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Pelayanan Air</a>
+          </li>
+          <li class="nav-item">
+	    <a class="nav-link" href="#">Penegakan Hukum</a>
+	  </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Kesehatan</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Lelang</a>
+          </li>
+          <!--li class="nav-item">
+            <a class="nav-link disabled">Disabled</a>
+          </li-->
         </ul>
         <form class="d-flex" role="search">
           <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -107,9 +122,38 @@
 <!-- Begin page content -->
 <main class="flex-shrink-0">
   <div class="container">
-    <h1 class="mt-5">Sticky footer with fixed navbar !</h1>
-    <p class="lead">Pin a footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code class="small">padding-top: 60px;</code> on the <code class="small">main &gt; .container</code>.</p>
-    <p>Back to <a href="../examples/sticky-footer/">the default sticky footer</a> minus the navbar.</p>
+    <h1 class="mt-5">Harapan Walikota Terhadap Penerapan Jayapura Smart City</h1>
+    <!--p class="lead">Pin a footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code class="small">padding-top: 60px;</code> on the <code class="small">main &gt; .container</code>.</p>
+    <p>Back to <a href="../examples/sticky-footer/">the default sticky footer</a> minus the navbar.</p-->
+
+	<p>
+la menyebut, mewujudkan kota cerdas maka asetnya sistem informasi instansi pemerintahan lokal, sekolah, perpustakaan, sistem transportasi, rumah sakit, pembangkit listrik, jaringan penyediaan air, pengelolaan penegakan hukum, dan pelayanan masyarakat lainnya. <br/><br/>
+Kota cerdas ditujukan dalam hal penggunaan informatika dan teknologi perkotaan, menurut Wali Kola Tommy Mano, untuk meningkalkan efisiensi pelayanan kepada masyarakat. <br/>
+	</p>
+
+
+<div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2"><div class="col mx-auto">
+	<div class="card border-top border-2 border-primary">
+		<div class="card-body text-center">
+			<h6><i class="bx bx-cctv"></i> PTSP</h6>
+			<div class="border p-1 rounded">
+			<iframe width="100%" height="300" src="https://jyp1.cctvbadilag.online:5443/402860PTAJAYAPURA/play.html?name=759281323309321635302957" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
+	</div>
+        </div><div class="col mx-auto">
+	<div class="card border-top border-2 border-primary">
+		<div class="card-body text-center">
+			<h6><i class="bx bx-cctv"></i> KANTIN/MUSHOLA/HALAMAN PARKIR</h6>
+			<div class="border p-1 rounded">
+			<iframe width="100%" height="300" src="https://jyp1.cctvbadilag.online:5443/402860PTAJAYAPURA/play.html?name=311981691527703968454231" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
+</div>
+</div></div>	
+
+
+
   </div>
 </main>
 
